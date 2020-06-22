@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Aplicação Trader\\APITrader\\APITrader\\APITrader.csproj",
+      "projectUniqueName": "F:\\Aplicação Trader\\TraderInvest\\APITrader\\APITrader.csproj",
       "projectName": "APITrader",
-      "projectPath": "F:\\Aplicação Trader\\APITrader\\APITrader\\APITrader.csproj",
+      "projectPath": "F:\\Aplicação Trader\\TraderInvest\\APITrader\\APITrader.csproj",
       "packagesPath": "C:\\Users\\iuryz\\.nuget\\packages\\",
-      "outputPath": "F:\\Aplicação Trader\\APITrader\\APITrader\\obj\\",
+      "outputPath": "F:\\Aplicação Trader\\TraderInvest\\APITrader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iuryz\\AppData\\Roaming\\NuGet\\NuGet.Config",
