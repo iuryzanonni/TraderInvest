@@ -1,7 +1,6 @@
 /.vs
 /*.sln
-/APITrader/obj
-/APITrader/bin
+/APITrader/obj/Debug
 /APITrader/APITrader.csproj
 /APITrader/APITrader.csproj.user
 /APITrader/appsettings.Development.json
